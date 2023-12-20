@@ -1,6 +1,7 @@
 <div id="logo-jamilservices" align="center">
-<img src="https://jamilservices.github.io/assets/svg/logo.svg" width="500">
+<img src="https://jamilservices.github.io/assets/svg/logo.svg" width="50%">
 </div>
+
 
 <!--
 
