@@ -1,5 +1,5 @@
-<div id="badges">
-<img src="https://jamilservices.github.io/assets/svg/logo.svg">
+<div id="logo-jamilservices" align="center">
+<img src="https://jamilservices.github.io/assets/svg/logo.svg" width="500">
 </div>
 
 <!--
