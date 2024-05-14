@@ -1,5 +1,5 @@
 <div id="logo-jamilservices" align="center">
-<img src="https://raw.githubusercontent.com/jamilservices/jamilservices.github.io/main/assets/svg/logo.svg" width="50%">
+<img src="https://raw.githubusercontent.com/jamilservices/jamilservices.github.io/main/institutional-website-v1/static/assets/svg/logo.svg" width="50%">
 </div>
 
 
